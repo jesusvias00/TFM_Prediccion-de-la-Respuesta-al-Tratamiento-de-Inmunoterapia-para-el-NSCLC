@@ -1,4 +1,4 @@
-# TFM_OptimizacionModelosIAparAnalisisNSCLCmedianteUsoCaracteristicasRadiomicas_ViasTorresJesus
+# TFM_Prediccion-de-la-Respuesta-al-Tratamiento-de-Inmunoterapia-para-el-NSCLC_VíasTorresJesús
 
 Para la ejecución de este código hay que tener en cuenta una serie de detalles:
 
